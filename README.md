@@ -1,8 +1,9 @@
-<img title="ludki-lapki-800x600.gif" src="https://cdn.dribbble.com/users/2203467/screenshots/6111843/ludki-lapki-800x600.gif" alt="Ludki lapki 800x600">
+<h1 align="center"><img title="ludki-lapki-800x600.gif" height = "200"  src="https://cdn.dribbble.com/users/2203467/screenshots/6111843/ludki-lapki-800x600.gif" alt="Ludki lapki 800x600"></h1>
 <h1 align="center">Hi 👋, I'm Gaurav Maheshwari</h1>
 <h3 align="center">A passionate frontend developer, Competitive Coder from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav24072002&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav24072002" /> </p>
+<hr>
 
 - 🌱 I’m currently learning **C++,Java ,JavaScript, Python and much more...**
 
@@ -11,7 +12,7 @@
 - ⚡ Fun fact: ...I like to play Table Tennis and Chess a lot...... 
 
 - 📫 How to reach me **gaurav02maheshwari@gmail.com**
-
+<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gaurav02maheshwari@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gaurav02maheshwari@gmail.com" height="30" width="40" /></a>
