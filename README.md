@@ -1,6 +1,6 @@
 <h1 align="center"><img title="ludki-lapki-800x600.gif" height = "200"  src="https://cdn.dribbble.com/users/2203467/screenshots/6111843/ludki-lapki-800x600.gif" alt="Ludki lapki 800x600"></h1>
 <h1 align="center">Hi 👋, I'm Gaurav Maheshwari</h1>
-<h3 align="center">A passionate frontend developer, Competitive Coder from India.</h3>
+<h3 align="center">A passionate front-end developer, Competitive Coder from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav24072002&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav24072002" /> </p>
 <hr>
