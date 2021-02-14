@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Gaurav Maheshwari</h1>
 <h3 align="center">A passionate front-end developer, Competitive Coder from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav24072002&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav24072002" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav24072002&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav24072002" />&nbsp<img src="https://img.shields.io/badge/CODING-%3A%3A%20love-red" alt="gaurav24072002" /> </p>
+
 <hr>
 <p>
 
