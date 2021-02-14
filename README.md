@@ -18,8 +18,11 @@
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gaurav02maheshwari@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gaurav02maheshwari@gmail.com" height="30" width="40" /></a>
-<a href="https://fb.com/gaurav02maheshwari@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="gaurav02maheshwari@gmail.com" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gaurav02maheshwari@gmail.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gaurav02maheshwari@gmail.com" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://fb.com/gaurav02maheshwari@gmail.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="gaurav02maheshwari@gmail.com" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/gaurav79693743" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="gaurav02maheshwari@gmail.com" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/gaurav02maheshwari/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="gaurav02maheshwari@gmail.com" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
