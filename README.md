@@ -6,12 +6,18 @@
 
 <hr>
 <p>
+ <h3>About Me</h3>
+  
+  I am a first year B.Tech Student who is fond of Open Source , Compitative Coding and Web Development... I love computers and tech like that and can work on them any time...I'll be more then happy to help anyone in the community and encourage them to kick start their Open Source journey.... 
 
-- 🌱 I’m currently learning **C++,Java ,JavaScript, Python and much more...**
+***
+- 🌱 I’m currently learning: **C++,Java ,JavaScript, Python and much more...**
 
-- 💬 Ask me about **Anything 😉**
+- 💬 Ask me about: **Anything 😉**
 
-- ⚡ Fun fact: ...I like to play Table Tennis and Chess a lot...... 
+- ⚡ Fun fact: **...I like to play Table Tennis and Chess a lot...... **
+
+- 🧿 My Tag Line: **"You should know everything about something and something about everything" ** 
 
 - 📫 How to reach me **gaurav02maheshwari@gmail.com**
 </p>
