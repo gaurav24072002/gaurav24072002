@@ -15,9 +15,9 @@
 
 - 💬 Ask me about: **Anything 😉**
 
-- ⚡ Fun fact: **...I like to play Table Tennis and Chess a lot...... **
+- ⚡ Fun fact: **I like to play Table Tennis and Chess a lot......**
 
-- 🧿 My Tag Line: **"You should know everything about something and something about everything" ** 
+- 🧿 My Tag Line: **"You should know everything about something and something about everything"** 
 
 - 📫 How to reach me **gaurav02maheshwari@gmail.com**
 </p>
