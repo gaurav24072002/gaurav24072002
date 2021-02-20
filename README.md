@@ -11,6 +11,9 @@
   I am a first year B.Tech Student who is fond of Open Source , Compitative Coding and Web Development... I love computers and tech like that and can work on them any time...I'll be more then happy to help anyone in the community and encourage them to kick start their Open Source journey.... 
 
 ***
+<div><h3 align="center"><img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" align="center"></h3></div>
+<div>
+ 
 - 🌱 I’m currently learning: **C++,Java ,JavaScript, Python and much more...**
 
 - 💬 Ask me about: **Anything 😉**
@@ -20,6 +23,7 @@
 - 🧿 My Tag Line: **"You should know everything about something and something about everything"** 
 
 - 📫 How to reach me **gaurav02maheshwari@gmail.com**
+</div>
 </p>
 <hr>
 <h3 align="left">Connect with me:</h3>
@@ -28,7 +32,21 @@
 <a href="https://fb.com/gaurav02maheshwari@gmail.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="gaurav02maheshwari@gmail.com" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/gaurav79693743" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="gaurav02maheshwari@gmail.com" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/gaurav02maheshwari/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="gaurav02maheshwari@gmail.com" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+ <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+ <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span><img alt="Globe" height="80" src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/globe.gif?raw=true">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
