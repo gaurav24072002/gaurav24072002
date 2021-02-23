@@ -8,7 +8,7 @@
 <p>
  <h3>About Me</h3>
   
-  I am a first year B.Tech Student who is fond of Open Source , Compitative Coding and Web Development... I love computers and tech like that and can work on them any time...I'll be more then happy to help anyone in the community and encourage them to kick start their Open Source journey.... 
+  I am a first year B.Tech Student who is an Open Source Enthusiast , Compitative Coder and Web Developer... I love computers and technology so much that I can work on them any time...I'll be more then happy to help anyone in the community and encourage them to kick start their Open Source journey.... 
 
 ***
 <div><h3 align="center"><img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" align="center"></h3></div>
