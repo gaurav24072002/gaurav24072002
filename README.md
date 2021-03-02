@@ -14,7 +14,7 @@
 <div><h3 align="center"><img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" align="center"></h3></div>
 <div>
  
-- 🌱 I’m currently learning: **C++,Java ,JavaScript, Python and much more...**
+- 🌱 I’m currently learning: **C++,Java ,JavaScript, Python, Docker , Kubernetes and much more...**
 
 - 💬 Ask me about: **Anything 😉**
 
