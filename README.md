@@ -23,6 +23,8 @@
 - 🧿 My Tag Line: **"You should know everything about something and something about everything"** 
 
 - 📫 How to reach me **gaurav02maheshwari@gmail.com**
+
+- 🅱 My BLOGS (Go and read them for more info.):  **[My BLOGS](https://dev.to/gaurav24072002)**
 </div>
 </p>
 <hr>
