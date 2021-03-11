@@ -14,7 +14,7 @@
 <div><h3 align="center"><img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" align="center"></h3></div>
 <div>
  
-- 🌱 I’m currently learning: **C++,Java ,JavaScript, Python, Docker , Kubernetes and much more...**
+- 🌱 Status: **Learning new things , Contributing , Achieving goals and Sharing**
 
 - 💬 Ask me about: **Anything 😉**
 
@@ -25,6 +25,11 @@
 - 📫 How to reach me **gaurav02maheshwari@gmail.com**
 
 - 🅱 My BLOGS (Go and read them for more info.):  **[My BLOGS](https://dev.to/gaurav24072002)**
+
+- 👍 Learned so far : 
+- Languages : **C , C++ , Java , Python , JavaScript**
+- Tools : **Docker , Kubernetes**
+- Web Development : **HTML, CSS, JavaScript and Mern Stack(MongoDb, Express, Reactjs,)**
 </div>
 </p>
 <hr>
