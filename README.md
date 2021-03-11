@@ -1,5 +1,5 @@
 <h1 align="center"><img title="ludki-lapki-800x600.gif" height = "200"  src="https://cdn.dribbble.com/users/2203467/screenshots/6111843/ludki-lapki-800x600.gif" alt="Ludki lapki 800x600"></h1>
-<h1 align="center">Hi 👋, I'm Gaurav Maheshwari</h1>
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px">, I'm Gaurav Maheshwari</h1>
 <h3 align="center">A Passionate Open Source Enthusiast , Web Developer and Competitive Coder from India.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gaurav24072002&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav24072002" />&nbsp;<img src="https://img.shields.io/badge/CODING-%3A%3A%20love-red" alt="gaurav24072002" />&nbsp;<img src="https://img.shields.io/badge/OPEN%20SOURCE%20ENTHUSIAST-Always-brightgreen" alt="gaurav24072002" />&nbsp;<img src="https://camo.githubusercontent.com/7d880f217d558a5183c9af2332c2517b00a6c4ff0b29297bd6881dd5bf867887/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f726174696e672d2545322539382538352545322539382538352545322539382538352545322539382538352545322539382538362d627269676874677265656e" alt="gaurav24072002" /> </p>
