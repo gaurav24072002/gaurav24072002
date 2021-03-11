@@ -29,7 +29,7 @@
 - 👍 Learned so far : 
 - Languages : **C , C++ , Java , Python , JavaScript**
 - Tools : **Docker , Kubernetes**
-- Web Development : **HTML, CSS, JavaScript and Mern Stack(MongoDb, Express, Reactjs,)**
+- Web Development : **HTML, CSS, JavaScript and Mern Stack(MongoDb, Express, Reactjs, Nodejs)**
 </div>
 </p>
 <hr>
