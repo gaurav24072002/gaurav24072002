@@ -31,7 +31,7 @@
 -  💖 To Know More About me See my **[PORTFOLIO](https://gaurav24072002.github.io/)**
 
 - 👍 Learned so far : 
-- Languages : **C , C++ , Java , Python , JavaScript**
+- Languages : **C , C++ , Java , Python , JavaScript, Go Lang**
 - Tools : **Docker , Kubernetes , MySQL**
 - Web Development : **HTML, CSS, JavaScript and Mern Stack(MongoDb, Express, Reactjs, Nodejs) and PHP**
 </div>
